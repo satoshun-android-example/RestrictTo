@@ -1,8 +1,8 @@
-package com.github.satoshun.example
+package com.github.satoshun.lib1
 
 import androidx.annotation.RestrictTo
 
-object Hoge {
+object Hoge2 {
   @RestrictTo(RestrictTo.Scope.LIBRARY)
   fun library() {
     println("i'm hoge")
