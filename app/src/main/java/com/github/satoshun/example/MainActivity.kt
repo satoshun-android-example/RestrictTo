@@ -11,5 +11,11 @@ class MainActivity : AppCompatActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
     binding = DataBindingUtil.setContentView(this, R.layout.main_act)
+
+    Hoge.library()
+    Hoge.libraryGroup()
+    Hoge.libraryGroupPrefix()
+    Hoge.subclasses()
+    Hoge.tests()
   }
 }
