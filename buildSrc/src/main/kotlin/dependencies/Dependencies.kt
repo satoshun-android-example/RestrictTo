@@ -32,6 +32,7 @@ const val FLEXBOX = "com.google.android:flexbox:1.1.0"
 
 const val CONTENTPAGER = "androidx.contentpager:contentpager:1.0.0-rc01"
 const val WEBKIT = "androidx.webkit:webkit:1.0.0"
+const val MEDIA2_COMMON = "androidx.media2:media2-common:1.0.0-rc01"
 const val MEDIA2 = "androidx.media2:media2:1.0.0-alpha04"
 
 const val MATERIAL = "com.google.android.material:material:1.1.0-alpha07"

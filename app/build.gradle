@@ -44,6 +44,9 @@ dependencies {
   implementation ACTIVITYX
   implementation FRAGMENTX
 
+  implementation MEDIA2
+  implementation MEDIA2_COMMON
+
   implementation VIEWMODEL
   implementation LIVEDATA
   implementation LIVEDATA_RUNTIME
