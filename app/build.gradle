@@ -33,6 +33,7 @@ android {
 
 dependencies {
   implementation project(':lib1')
+  implementation project(':lib2')
 
   implementation KOTLIN
 

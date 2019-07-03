@@ -20,8 +20,6 @@ android {
 }
 
 dependencies {
-  implementation project(':lib2')
-
   implementation KOTLIN
 
   implementation MATERIAL
