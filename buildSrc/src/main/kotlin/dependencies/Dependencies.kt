@@ -95,7 +95,7 @@ const val RETROFIT = "com.squareup.retrofit2:retrofit:2.6.0"
 const val RETROFIT_SERIALIZATION = "com.jakewharton.retrofit:retrofit2-kotlinx-serialization-converter:0.4.0"
 const val SERIALIZATION = "org.jetbrains.kotlinx:kotlinx-serialization-runtime:0.11.1"
 
-const val JUNIT = "junit:junit:4.13-beta-1"
+const val JUNIT = "junit:junit:4.12"
 const val TRUTH = "com.google.truth:truth:0.42"
 const val MOCKITO_KOTLIN = "com.nhaarman:mockito-kotlin-kt1.1:1.5.0"
 const val TEST_RUNNER = "androidx.test:runner:1.1.1"
